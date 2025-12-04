@@ -1,0 +1,3 @@
+Odin Recipe
+
+In this project I created a simple recipe website using only HTML. Here I used what I learned in HTML using HTML boilerplates, headings, lists, links and so on and I also used git for version control. I created four pages for the homepage, and the three are recipe pages placed in the recipes folder I put images on each page of the recipes using the <img> element, short description of the dish, unordered list and ordered list for ingredients and steps and at the end of each page I put links to the homepage for easy navigation to the homepage
