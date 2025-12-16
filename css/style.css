@@ -23,3 +23,7 @@ ul {
     text-align: center;
     font-size: 25px;
 }
+
+li a {
+    text-decoration: none;
+}
