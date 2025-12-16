@@ -10,7 +10,7 @@ body {
     margin: 0 auto;
 }
 
-h1 {
+.main-title {
     font-size: 50px;
     text-align: center;
     margin: 20px;
