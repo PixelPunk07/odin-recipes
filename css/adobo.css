@@ -31,3 +31,7 @@ p {
     padding: 10px;
     margin-bottom: 20px;
 }
+
+ul {
+    list-style: none;
+}
