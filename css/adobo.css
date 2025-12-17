@@ -53,3 +53,7 @@ ol {
 ol li {
     margin-bottom: 8px;
 }
+
+ol li:first-child {
+    margin-top: 10px;
+}
