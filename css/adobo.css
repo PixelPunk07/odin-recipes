@@ -44,3 +44,7 @@ ul li {
 ul li:first-child {
     margin-top: 10px;
 }
+
+ol {
+    padding: 0 40px;
+}
