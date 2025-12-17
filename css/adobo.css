@@ -49,3 +49,7 @@ ol {
     padding: 0 40px;
     text-align: left;
 }
+
+ol li {
+    margin-bottom: 8px;
+}
