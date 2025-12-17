@@ -47,4 +47,5 @@ ul li:first-child {
 
 ol {
     padding: 0 40px;
+    text-align: left;
 }
