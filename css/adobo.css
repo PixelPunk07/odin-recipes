@@ -10,6 +10,7 @@ body {
     margin: 10px auto;
     text-align: center;
     border: 5px solid hsl(19, 100%, 50%);
+    font-size: 18px;
 }
 
 h1 {
