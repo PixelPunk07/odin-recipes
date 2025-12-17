@@ -61,4 +61,5 @@ ol li:first-child {
 a {
     text-decoration: none;
     background-color: rgb(238, 114, 12);
+    color: white;
 }
